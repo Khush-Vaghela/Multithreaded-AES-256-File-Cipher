@@ -1,6 +1,7 @@
 # Multithreaded AES-256 File Cipher
 
 A high-performance, multithreaded file encryption and decryption utility written in C. This project utilizes POSIX threads to parallelize cryptographic workloads and features an interactive terminal user interface (TUI) for seamless file selection and configuration.
+<img width="1600" height="777" alt="Screenshot" src="https://github.com/user-attachments/assets/8f1cb78c-c966-4146-8eaa-e9355f6b41c8" />
 
 ## Features
 
